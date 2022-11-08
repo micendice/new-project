@@ -21,3 +21,4 @@ for i in range(2, number_operandes + 1):
         print('Сущеглупый холоп!')
     
 print(result_visual, '=', result)
+print('try to change and then to commit changes')
