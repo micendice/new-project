@@ -1,3 +1,4 @@
 # Sample project just to exercise
-![rtrt](/botworksdisplay.jpg "sample picture")
+![rtrt](botworksdisplay.jpg "sample picture")
+
 egegegey
